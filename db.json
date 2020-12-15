@@ -1,0 +1,524 @@
+{
+	"pages": [
+		{
+			"name": "Home",
+			"path": "#/Home",
+			"titleEng": "Home",
+			"titleSpan": "Inicio",
+			"titlePort": "Início",
+			"titleFrench": "Accueil",
+			"titleChinese": "主页",
+			"titleRussian": "Главная"
+		},
+		{
+			"name": "OurProducts",
+			"path": "#/OurProducts",
+			"titleEng": "Our Products",
+			"titleSpan": "Nuestros productos",
+			"titlePort": "Nossos produtos",
+			"titleFrench": "Nos produits",
+			"titleChinese": "我们的产品",
+			"titleRussian": "Наши продукты"
+		},
+		{
+			"name": "Health",
+			"path": "#/OurProducts/Health",
+			"titleEng": "Health Insurance",
+			"titleSpan": "Seguro de salud",
+			"titlePort": "Seguro Saúde",
+			"titleFrench": "Assurance maladie",
+			"titleChinese": "医疗保险",
+			"titleRussian": "Здоровье"
+		},
+		{
+			"name": "LifeAndDisability",
+			"path": "#/OurProducts/LifeandDisability",
+			"titleEng": "Life & Disability",
+			"titleSpan": "Vida & Incapacidad",
+			"titlePort": "Vida & Invalidez",
+			"titleFrench": "Vie & invalidité",
+			"titleChinese": "人寿 & 失能",
+			"titleRussian": "Жизнь и трудоспособность"
+		},
+		{
+			"name": "Travel",
+			"path": "#/OurProducts/Travel",
+			"titleEng": "Travel Insurance",
+			"titleSpan": "Seguro de Viaje",
+			"titlePort": "Seguro Viagem",
+			"titleFrench": "Assurance Voyage",
+			"titleChinese": "旅行保险",
+			"titleRussian": "Поездки"
+		},
+		{
+			"name": "IndividualTravel",
+			"path": "#/OurProducts/Travel/IndividualTravel",
+			"titleEng": "Individual Travel",
+			"titleSpan": "Individual Viaje",
+			"titlePort": "Individual Viagem",
+			"titleFrench": "Voyage Individuel",
+			"titleChinese": "Individual Travel",
+			"titleRussian": "Индивидуальное страхование при поездках"
+		},
+		{
+			"name": "CorporateTravel",
+			"path": "#/OurProducts/Travel/CorporateTravel",
+			"titleEng": "Corporate & Group Travel",
+			"titleSpan": "Seguro de Viaje Corporativo Y de Grupo",
+			"titlePort": "Seguro de Viagem Corporativo & de Grupo",
+			"titleFrench": "Voyage d entreprise & de groupe",
+			"titleChinese": "Corporate & Group Travel",
+			"titleRussian": "Корпоративное и групповое страхование при поездках"
+		},
+		{
+			"name": "TravelClaims",
+			"path": "#/OurProducts/Travel/TravelClaims",
+			"titleEng": "Submit a Travel Claim",
+			"titleSpan": "Presentar un Reclamo de Viaje",
+			"titlePort": "Enviar uma Solicitação de Reembolso de Viagem",
+			"titleFrench": "Soumettre une réclamation de Voyage",
+			"titleChinese": "Submit a Travel Claim",
+			"titleRussian": "Подача заявления о выплате страхового возмещения по полису страхования при поездках"
+		},
+		{
+			"name": "TravelForm",
+			"path": "#/OurProducts/Travel/TravelForms",
+			"titleEng": "Travel Forms",
+			"titleSpan": "Formularios de viajes",
+			"titlePort": "Formulários de viagem",
+			"titleFrench": "Travel Forms",
+			"titleChinese": "Travel Forms",
+			"titleRussian": "Формы для страхования при поездках"
+		},
+		{
+			"name": "TravelBrochures",
+			"path": "#/OurProducts/Travel/TravelBrochures",
+			"titleEng": "Travel Brochures",
+			"titleSpan": "Folletos de viajes",
+			"titlePort": "Folhetos de viagem",
+			"titleFrench": "Brochures de voyage",
+			"titleChinese": "Travel Brochures",
+			"titleRussian": "Буклеты о страховании при поездках"
+		},
+		{
+			"name": "StudentInsurance",
+			"path": "#/OurProducts/Students",
+			"titleEng": "Students",
+			"titleSpan": "Estudiantes",
+			"titlePort": "Estudantes",
+			"titleFrench": "Students",
+			"titleChinese": "Students",
+			"titleRussian": "Students"
+		},
+		{
+			"name": "AboutGBG",
+			"path": "#/AboutGBG",
+			"titleEng": "About GBG",
+			"titleSpan": "Acerca de GBG",
+			"titlePort": "Sobre a GBG",
+			"titleFrench": "Qui est GBG ?",
+			"titleChinese": "关于 GBG",
+			"titleRussian": "О группе GBG"
+		},
+		{
+			"name": "AboutUs",
+			"path": "#/AboutGBG/AboutUs",
+			"titleEng": "About Us",
+			"titleSpan": "Acerca de nosotros",
+			"titlePort": "Sobre nós",
+			"titleFrench": "Qui sommes-nous ?",
+			"titleChinese": "关于我们",
+			"titleRussian": "О нас"
+		},
+		{
+			"name": "PrivacyPolicy",
+			"path": "#/AboutGBG/PrivacyPolicy",
+			"titleEng": "Privacy Policy",
+			"titleSpan": "Política de privacidad",
+			"titlePort": "Política de privacidade",
+			"titleFrench": "Politique de confidentialité",
+			"titleChinese": "隐私政策",
+			"titleRussian": "Политика конфиденциальности"
+		},
+		{
+			"name": "PrivacyPolicyArchive",
+			"path": "#/AboutGBG/PrivacyPolicy/privacyPolicyArchive",
+			"titleEng": "Privacy Policy",
+			"titleSpan": "Política de privacidad",
+			"titlePort": "Política de privacidade",
+			"titleFrench": "Politique de confidentialité",
+			"titleChinese": "隐私政策",
+			"titleRussian": "Политика конфиденциальности"
+		},
+		{
+			"name": "CorporateLeadership",
+			"path": "#/AboutGBG/CorporateLeadership",
+			"titleEng": "Corporate Leadership",
+			"titleSpan": "Liderazgo corporativo",
+			"titlePort": "Liderança Corporativa",
+			"titleFrench": "Leadership d’entreprise",
+			"titleChinese": "公司领导层",
+			"titleRussian": "Руководство группы"
+		},
+		{
+			"name": "Careers",
+			"path": "#/AboutGBG/Careers",
+			"titleEng": "Careers",
+			"titleSpan": "Carrera profesional",
+			"titlePort": "Carreiras",
+			"titleFrench": "Carrières",
+			"titleChinese": "职业生涯",
+			"titleRussian": "Работа в группе"
+		},
+		{
+			"name": "ComplaintsProceduresGBE",
+			"path": "#/AboutGBG/ComplaintsProcedures/GBE",
+			"titleEng": "Complaints Procedures - GBE",
+			"titleSpan": "Complaints Procedures - GBE",
+			"titlePort": "Complaints Procedures - GBE",
+			"titleFrench": "Complaints Procedures - GBE",
+			"titleChinese": "Complaints Procedures - GBE",
+			"titleRussian": "Complaints Procedures - GBE"
+		},
+		{
+			"name": "Sitemap",
+			"path": "#/AboutGBG/Sitemap",
+			"titleEng": "Site Map",
+			"titleSpan": "Mapa del sitio",
+			"titlePort": "Mapa do site",
+			"titleFrench": "Carte du site",
+			"titleChinese": "网站地图",
+			"titleRussian": "Карта сайта"
+		},
+		{
+			"name": "GBGContactUs",
+			"path": "#/AboutGBG/ContactUs",
+			"titleEng": "Contact Us",
+			"titleSpan": "Contáctenos",
+			"titlePort": "Entre em contato conosco",
+			"titleFrench": "Contactez-nous",
+			"titleChinese": "联系我们",
+			"titleRussian": "Контакты"
+		},
+		{
+			"name": "GBGMediaRoom",
+			"path": "#/AboutGBG/GBGMediaRoom",
+			"titleEng": "GBG Media Room",
+			"titleSpan": "Sala para medios de comunicación de GBG",
+			"titlePort": "Sala de mídia da GBG",
+			"titleFrench": "Presse GBG",
+			"titleChinese": "GBG 媒体室",
+			"titleRussian": "Информация группы GBG для СМИ"
+		},
+		{
+			"name": "GBGNews",
+			"path": "#/AboutGBG/GBGMediaRoom/GBGNews",
+			"titleEng": "GBG News",
+			"titleSpan": "Noticias de GBG",
+			"titlePort": "Notícias da GBG",
+			"titleFrench": "Actualités GBG",
+			"titleChinese": "GBG 新闻",
+			"titleRussian": "Новости группы GBG"
+		},
+		{
+			"name": "GBGVideos",
+			"path": "#/AboutGBG/GBGMediaRoom/GBGVideos",
+			"titleEng": "GBG Videos",
+			"titleSpan": "Videos de GBG",
+			"titlePort": "Vídeos da GBG",
+			"titleFrench": "Vidéos GBG",
+			"titleChinese": "GBG 视频",
+			"titleRussian": "Видеоматериалы группы GBG"
+		},
+		{
+			"name": "EmailUs",
+			"path": "#/AboutGBG/ContactUs/EmailUs",
+			"titleEng": "Email Us",
+			"titleSpan": "Envíenos un correo electrónico",
+			"titlePort": "Envia-nos um emai",
+			"titleFrench": "Envoyez-nous un email",
+			"titleChinese": "电子邮件联系",
+			"titleRussian": "Связаться с нами по электронной почте"
+		},
+		{
+			"name": "InternationalOffices",
+			"path": "#/AboutGBG/ContactUs/InternationalOffices",
+			"titleEng": "International Offices",
+			"titleSpan": "Oficinas Internacionales",
+			"titlePort": "Sedes Internacionais",
+			"titleFrench": "Nos bureaux à l international",
+			"titleChinese": "国际办事处",
+			"titleRussian": "Офисы в других странах"
+		},
+		{
+			"name": "Investors",
+			"path": "#/AboutGBG/Investors/",
+			"titleEng": "Investors",
+			"titleSpan": "Investors",
+			"titlePort": "Investors",
+			"titleFrench": "Investors",
+			"titleChinese": "Investors",
+			"titleRussian": "Investors"
+		},
+		{
+			"name": "BoardOfDirectors",
+			"path": "#/AboutGBG/Investors/BoardOfDirectors",
+			"titleEng": "Board Of Directors",
+			"titleSpan": "Board Of Directors",
+			"titlePort": "BoardOfDirectors",
+			"titleFrench": "Board Of Directors",
+			"titleChinese": "Board Of Directors",
+			"titleRussian": "Board Of Directors"
+		},
+		{
+			"name": "CorporateGovernance",
+			"path": "#/AboutGBG/Investors/CorporateGovernance",
+			"titleEng": "Corporate Governance",
+			"titleSpan": "Corporate Governance",
+			"titlePort": "CorporateGovernance",
+			"titleFrench": "Corporate Governance",
+			"titleChinese": "Corporate Governance",
+			"titleRussian": "Corporate Governance"
+		},
+		{
+			"name": "FinancialStatements",
+			"path": "#/AboutGBG/Investors/FinancialStatements",
+			"titleEng": "Financial Statements",
+			"titleSpan": "Financial Statements",
+			"titlePort": "FinancialStatements",
+			"titleFrench": "Financial Statements",
+			"titleChinese": "Financial Statements",
+			"titleRussian": "Financial Statements"
+		},
+		{
+			"name": "InvestorDocuments",
+			"path": "#/AboutGBG/Investors/InvestorDocuments",
+			"titleEng": "Investor Documents",
+			"titleSpan": "Investor Documents",
+			"titlePort": "Investor Documents",
+			"titleFrench": "Investor Documents",
+			"titleChinese": "Investor Documents",
+			"titleRussian": "Investor Documents"
+		},
+		{
+			"name": "SignificantShareholders",
+			"path": "#/AboutGBG/Investors/SignificantShareholders",
+			"titleEng": "Significant Shareholders",
+			"titleSpan": "Significant Shareholders",
+			"titlePort": "Significant Shareholders",
+			"titleFrench": "Significant Shareholders",
+			"titleChinese": "Significant Shareholders",
+			"titleRussian": "Significant Shareholders"
+		},
+		{
+			"name": "RegulatoryAnnouncements",
+			"path": "#/AboutGBG/Investors/RegulatoryAnnouncements",
+			"titleEng": "Regulatory Announcements",
+			"titleSpan": "Regulatory Announcements",
+			"titlePort": "Regulatory Announcements",
+			"titleFrench": "Regulatory Announcements",
+			"titleChinese": "Regulatory Announcements",
+			"titleRussian": "RegulatoryAnnouncements"
+		},
+		{
+			"name": "AdvisersRegisteredOffice",
+			"path": "#/AboutGBG/Investors/AdvisersRegisteredOffice",
+			"titleEng": "Advisers Registered Office",
+			"titleSpan": "Advisers Registered Office",
+			"titlePort": "Advisers Registered Office",
+			"titleFrench": "Advisers Registered Office",
+			"titleChinese": "Advisers Registered Office",
+			"titleRussian": "Advisers Registered Office"
+		},
+		{
+			"name": "Disclaimer",
+			"path": "#/AboutGBG/Investors/Disclaimer",
+			"titleEng": "Disclaimer",
+			"titleSpan": "Disclaimer",
+			"titlePort": "Disclaimer",
+			"titleFrench": "Disclaimer",
+			"titleChinese": "Disclaimer",
+			"titleRussian": "Disclaimer"
+		},
+		{
+			"name": "OurSolutions",
+			"path": "#/OurSolutions",
+			"titleEng": "Our Solutions",
+			"titleSpan": "Nuestras soluciones",
+			"titlePort": "Nossas soluções",
+			"titleFrench": "Nos solutions",
+			"titleChinese": "我们的解决方案",
+			"titleRussian": "Наши решения"
+		},
+		{
+			"name": "ClientServices",
+			"path": "#/OurSolutions/ClientServices",
+			"titleEng": "Client Services",
+			"titleSpan": "Servicios para el cliente ",
+			"titlePort": "Serviços de atendimento ao cliente ",
+			"titleFrench": "Services clients",
+			"titleChinese": "客户服务",
+			"titleRussian": "Службы по работе с клиентами"
+		},
+		{
+			"name": "GBGAssist",
+			"path": "#/OurSolutions/ClientServices/GBGAssist",
+			"titleEng": "GBG Assist",
+			"titleSpan": "GBG Assist",
+			"titlePort": "GBG Assist",
+			"titleFrench": "GBG Assist",
+			"titleChinese": "GBG 援助",
+			"titleRussian": "GBG Assist"
+		},
+		{
+			"name": "ICS",
+			"path": "#/OurSolutions/ClientServices/InternationalClaimsServices",
+			"titleEng": "International Claims Services",
+			"titleSpan": "Servicios de reclamos internacionales",
+			"titlePort": "International Claims Services",
+			"titleFrench": "Services des demandes internationales",
+			"titleChinese": "国际理赔服务",
+			"titleRussian": "Компания по работе с международными страховыми требованиями "
+		},
+		{
+			"name": "AroundTheGlobe",
+			"path": "#/OurSolutions/AroundtheGlobe",
+			"titleEng": "Around The Globe",
+			"titleSpan": "En todo el mundo",
+			"titlePort": "Ao redor do mundo",
+			"titleFrench": "Présence dans le monde",
+			"titleChinese": "全球分布",
+			"titleRussian": "Присутствие в различных странах мира"
+		},
+		{
+			"name": "OurFunctionality",
+			"path": "#/OurSolutions/OurFunctionality",
+			"titleEng": "Our Functionality",
+			"titleSpan": "Nuestra Funcionalidad",
+			"titlePort": "Nossas funcionalidades",
+			"titleFrench": "Notre fonctionnalité",
+			"titleChinese": "我们的职能",
+			"titleRussian": "Наши функциональные возможности"
+		},
+		{
+			"name": "ProviderDirectory",
+			"path": "#/OurSolutions/ProviderDirectory",
+			"titleEng": "Provider Directory",
+			"titleSpan": "Directorio de proveedores",
+			"titlePort": "Lista de prestadores de serviços",
+			"titleFrench": "Registre des prestataires",
+			"titleChinese": "医疗机构目录",
+			"titleRussian": "Каталог поставщиков услуг"
+		},
+		{
+			"name": "Distributors",
+			"path": "#/OurSolutions/Distributors",
+			"titleEng": "Distributors",
+			"titleSpan": "Distribuidores",
+			"titlePort": "Distribuidores",
+			"titleFrench": "Distributeurs",
+			"titleChinese": "分销渠道",
+			"titleRussian": "Дистрибьюторы"
+		},
+		{
+			"name": "Payment",
+			"path": "#/OurSolutions/Payment",
+			"titleEng": "Payment",
+			"titleSpan": "Opciones de pago",
+			"titlePort": "Opções de pagamento",
+			"titleFrench": "Options de paiement",
+			"titleChinese": "支付方案",
+			"titleRussian": "Оплата"
+		},
+		{
+			"name": "PaymentbyCheck",
+			"path": "#/OurSolutions/Payment/PaymentbyCheck",
+			"titleEng": "Payment by Check",
+			"titleSpan": "Pago con cheque",
+			"titlePort": "Pagamentos com cheque",
+			"titleFrench": "Paiement par chèque",
+			"titleChinese": "支票支付",
+			"titleRussian": "Оплата чеком"
+		},
+		{
+			"name": "PaymentbyCreditCard",
+			"path": "#/OurSolutions/Payment/PaymentbyCreditCard",
+			"titleEng": "Payment by Credit Card",
+			"titleSpan": "Pago con tarjeta de crédito",
+			"titlePort": "Pagar com cartão de crédito",
+			"titleFrench": "Paiement par carte de crédit",
+			"titleChinese": "信用卡支付",
+			"titleRussian": "Оплата кредитной картой "
+		},
+		{
+			"name": "PaymentbyElectronicFundsTransfer",
+			"path": "#/OurSolutions/Payment/PaymentbyElectronicFundsTransfer",
+			"titleEng": "Payment by Electronic Funds Transfer",
+			"titleSpan": "Pago por transferencia electrónica de fondos",
+			"titlePort": "Pagamento por transferência  eletrônica de fundos",
+			"titleFrench": "Paiement par virement électronique",
+			"titleChinese": "电子资金转账支付",
+			"titleRussian": "Оплата электронными деньгами"
+		},
+		{
+			"name": "PaymentbyWire",
+			"path": "#/OurSolutions/Payment/PaymentbyWire",
+			"titleEng": "Payment by Wire",
+			"titleSpan": "Pago por giro bancario",
+			"titlePort": "Pagamento  por cabo",
+			"titleFrench": "Paiement par virement bancaire",
+			"titleChinese": "电汇支付",
+			"titleRussian": "Оплата денежным переводом"
+		},
+		{
+			"name": "Form",
+			"path": "#/OurSolutions/Forms",
+			"titleEng": "Forms",
+			"titleSpan": "Formularios",
+			"titlePort": "Formulários",
+			"titleFrench": "Forms",
+			"titleChinese": "表格",
+			"titleRussian": "Формы для заполнения"
+		},
+		{
+			"name": "NetworkMemberships",
+			"path": "#/OurSolutions/NetworkMemberships",
+			"titleEng": "Network Memberships",
+			"titleSpan": "Red de Membresia",
+			"titlePort": "Network Memberships",
+			"titleFrench": "Network Memberships",
+			"titleChinese": "Network Memberships",
+			"titleRussian": "Network Memberships"
+		},
+		{
+			"name": "GBN",
+			"path": "#/OurSolutions/NetworkMemberships/GBN",
+			"titleEng": "GBN",
+			"titleSpan": "GBN",
+			"titlePort": "GBN",
+			"titleFrench": "GBN",
+			"titleChinese": "GBN",
+			"titleRussian": "GBN"
+		},
+		{
+			"name": "Insurope",
+			"path": "#/OurSolutions/NetworkMemberships/Insurope",
+			"titleEng": "Insurope",
+			"titleSpan": "Insurope",
+			"titlePort": "Insurope",
+			"titleFrench": "Insurope",
+			"titleChinese": "Insurope",
+			"titleRussian": "Insurope"
+		},
+		{
+			"name": "MFinancial",
+			"path": "#/OurSolutions/NetworkMemberships/MFinancial",
+			"titleEng": "M Financial",
+			"titleSpan": "M Financial",
+			"titlePort": "M Financial",
+			"titleFrench": "M Financial",
+			"titleChinese": "M Financial",
+			"titleRussian": "M Financial"
+		}
+	]
+}
